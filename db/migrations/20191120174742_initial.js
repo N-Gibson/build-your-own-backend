@@ -12,12 +12,14 @@ exports.up = function(knex) {
     }),
 
     knex.schema.createTable('players', (table) => {
-      table.increments('id').primary;
+      table.increments('id').primary();
       table.string('name');
       table.string('position');
       table.string('nationality');
       table.string('role');
       table.integer('shirtNumber').unsigned();
+      table.foreign('team_id')
+        .references('id')
 
       table.timestamp(true, true);
     })
