@@ -1,5 +1,5 @@
-const Teams = {
-  Arsenal: {
+const teams = [
+   {
     "name": "Arsenal FC",
     "shortName": "Arsenal",
     "tla": "ARS",
@@ -52,7 +52,7 @@ const Teams = {
       }
     ]
   },
-  Aston_Villa: {
+  {
     "name": "Aston Villa FC",
     "shortName": "Aston Villa",
     "tla": "AST",
@@ -94,7 +94,7 @@ const Teams = {
       }
     ]
   },
-  Blackburn_Rovers: {
+  {
     "name": "Blackburn Rovers FC",
     "shortName": "Blackburn",
     "tla": "BBR",
@@ -136,7 +136,7 @@ const Teams = {
       }
     ]
   },
-  Bolton_Wanderers: {
+  {
     "name": "Bolton Wanderers FC",
     "shortName": "Bolton",
     "tla": "BOL",
@@ -178,7 +178,7 @@ const Teams = {
       }
     ]
   },
-  Chelsea: {
+  {
     "name": "Chelsea FC",
     "shortName": "Chelsea",
     "tla": "CHE",
@@ -231,7 +231,7 @@ const Teams = {
       }
     ]
   },
-  Everton : {
+  {
     "name": "Everton FC",
     "shortName": "Everton",
     "tla": "EVE",
@@ -273,7 +273,7 @@ const Teams = {
       }
     ]
   },
-  Fulham: {
+  {
     "name": "Fulham FC",
     "shortName": "Fulham",
     "tla": "FUL",
@@ -315,7 +315,7 @@ const Teams = {
       }
     ]
   },
-  Liverpool: {
+  {
     "name": "Liverpool FC",
     "shortName": "Liverpool",
     "tla": "LIV",
@@ -368,7 +368,7 @@ const Teams = {
       }
     ]
   },
-  Manchester_City: {
+  {
     "name": "Manchester City FC",
     "shortName": "Man City",
     "tla": "MCI",
@@ -421,7 +421,7 @@ const Teams = {
       }
     ]
   },
-  Manchester_United: {
+  {
     "name": "Manchester United FC",
     "shortName": "Man United",
     "tla": "MUN",
@@ -474,7 +474,7 @@ const Teams = {
       }
     ]
   },
-  Newcastle: {
+  {
     "name": "Newcastle United FC",
     "shortName": "Newcastle",
     "tla": "NEW",
@@ -516,7 +516,7 @@ const Teams = {
       }
     ]
   },
-  Norwich: {
+  {
     "name": "Norwich City FC",
     "shortName": "Norwich",
     "tla": "NOR",
@@ -558,7 +558,7 @@ const Teams = {
       }
     ]
   },
-  Queens_Park_Rangers: {
+  {
     "name": "Queens Park Rangers FC",
     "shortName": "QPR",
     "tla": "QPR",
@@ -600,7 +600,7 @@ const Teams = {
       }
     ]
   },
-  Stoke: {
+  {
     "name": "Stoke City FC",
     "shortName": "Stoke",
     "tla": "STO",
@@ -642,7 +642,7 @@ const Teams = {
       }
     ]
   },
-  Sunderland: {
+  {
     "name": "Sunderland AFC",
     "shortName": "Sunderland",
     "tla": "SUN",
@@ -684,7 +684,7 @@ const Teams = {
       }
     ]
   },
-  Swansea: {
+  {
     "name": "Swansea City AFC",
       "shortName": "Swansea",
       "tla": "SWA",
@@ -726,7 +726,7 @@ const Teams = {
           }
       ]
   },
-  Tottenham: {
+  {
     "name": "Tottenham Hotspur FC",
     "shortName": "Tottenham",
     "tla": "TOT",
@@ -779,7 +779,7 @@ const Teams = {
       }
     ]
   },
-  West_Bromwich_Albion: {
+  {
     "name": "West Bromwich Albion FC",
     "shortName": "West Brom",
     "tla": "WBA",
@@ -821,7 +821,7 @@ const Teams = {
       }
     ]
   },
-  Wigan: {
+  {
     "name": "Wigan Athletic FC",
     "shortName": "Wigan Athletic",
     "tla": "WIG",
@@ -863,7 +863,7 @@ const Teams = {
       }
     ]
   },
-  Wolverhampton_Wanderers: {
+  {
     "name": "Wolverhampton Wanderers FC",
     "shortName": "Wolverhampton",
     "tla": "WOL",
@@ -916,6 +916,6 @@ const Teams = {
       }
     ]
   }
-}
+]
 
-export default Teams;
+module.exports = teams;
