@@ -2,6 +2,7 @@ const Rosters = {
   Arsenal: {
     "squad": [
           {
+              "team_id": 57,
               "id": 3141,
               "name": "Emiliano Martínez",
               "position": "Goalkeeper",
@@ -12,6 +13,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 3174,
               "name": "Bernd Leno",
               "position": "Goalkeeper",
@@ -22,6 +24,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7779,
               "name": "Matt Macey",
               "position": "Goalkeeper",
@@ -32,6 +35,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 137,
               "name": "Sokratis Papastathopoulos",
               "position": "Defender",
@@ -42,6 +46,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7783,
               "name": "Héctor Bellerín",
               "position": "Defender",
@@ -52,6 +57,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7784,
               "name": "Rob Holding",
               "position": "Defender",
@@ -62,6 +68,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7785,
               "name": "Shkodran Mustafi",
               "position": "Defender",
@@ -72,6 +79,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7786,
               "name": "Sead Kolašinac",
               "position": "Defender",
@@ -82,6 +90,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7787,
               "name": "Calum Chambers",
               "position": "Defender",
@@ -92,6 +101,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7789,
               "name": "Konstantinos Mavropanos",
               "position": "Defender",
@@ -102,6 +112,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7805,
               "name": "David Luiz",
               "position": "Defender",
@@ -112,6 +123,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 15615,
               "name": "Kieran Tierney",
               "position": "Defender",
@@ -122,6 +134,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 131038,
               "name": "Tolaji Bola",
               "position": "Defender",
@@ -132,6 +145,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 68,
               "name": "Dani Ceballos",
               "position": "Midfielder",
@@ -142,6 +156,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 600,
               "name": "Mattéo Guendouzi",
               "position": "Midfielder",
@@ -152,6 +167,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 2260,
               "name": "Lucas Torreira",
               "position": "Midfielder",
@@ -162,6 +178,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 3180,
               "name": "Mesut Özil",
               "position": "Midfielder",
@@ -172,6 +189,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 3477,
               "name": "Granit Xhaka",
               "position": "Midfielder",
@@ -182,6 +200,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7792,
               "name": "Ainsley Maitland-Niles",
               "position": "Midfielder",
@@ -192,6 +211,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 61450,
               "name": "Martinelli",
               "position": "Midfielder",
@@ -202,6 +222,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 85570,
               "name": "Emile Smith-Rowe",
               "position": "Midfielder",
@@ -212,6 +233,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 99813,
               "name": "Bukayo Saka",
               "position": "Midfielder",
@@ -222,6 +244,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 131039,
               "name": "Robbie Burton",
               "position": "Midfielder",
@@ -232,6 +255,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7797,
               "name": "Alexandre Lacazette",
               "position": "Attacker",
@@ -242,6 +266,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7798,
               "name": "Joe Willock",
               "position": "Attacker",
@@ -252,6 +277,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7799,
               "name": "Reiss Nelson",
               "position": "Attacker",
@@ -262,6 +288,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 7801,
               "name": "Pierre-Emerick Aubameyang",
               "position": "Attacker",
@@ -272,6 +299,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 8412,
               "name": "Nicolas Pépé",
               "position": "Attacker",
@@ -282,6 +310,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 131040,
               "name": "Folarin Balogun",
               "position": "Attacker",
@@ -292,6 +321,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 57,
               "id": 11616,
               "name": "Unai Emery",
               "position": null,
@@ -306,6 +336,7 @@ const Rosters = {
   Aston_Villa: {
     "squad": [
           {
+              "team_id": 58,
               "id": 3547,
               "name": "Lovre Kalinić",
               "position": "Goalkeeper",
@@ -316,6 +347,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3883,
               "name": "Jed Steer",
               "position": "Goalkeeper",
@@ -326,6 +358,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 6843,
               "name": "Ørjan Nyland",
               "position": "Goalkeeper",
@@ -336,6 +369,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8035,
               "name": "Tom Heaton",
               "position": "Goalkeeper",
@@ -346,6 +380,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3889,
               "name": "James Chester",
               "position": "Defender",
@@ -356,6 +391,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3890,
               "name": "Neil Taylor",
               "position": "Defender",
@@ -366,6 +402,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3962,
               "name": "Matt Targett",
               "position": "Defender",
@@ -376,6 +413,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 4082,
               "name": "Kortney Hause",
               "position": "Defender",
@@ -386,6 +424,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8235,
               "name": "Tyrone Mings",
               "position": "Defender",
@@ -396,6 +435,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8324,
               "name": "Frédéric Guilbert",
               "position": "Defender",
@@ -406,6 +446,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 15986,
               "name": "Björn Engels",
               "position": "Defender",
@@ -416,6 +457,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3753,
               "name": "Ahmed El Mohamady",
               "position": "Midfielder",
@@ -426,6 +468,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3759,
               "name": "Trezeguet",
               "position": "Midfielder",
@@ -436,6 +479,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3895,
               "name": "Jack Grealish",
               "position": "Midfielder",
@@ -446,6 +490,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3896,
               "name": "Keinan Davis",
               "position": "Midfielder",
@@ -456,6 +501,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3898,
               "name": "Henri Lansbury",
               "position": "Midfielder",
@@ -466,6 +512,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3900,
               "name": "Conor Hourihane",
               "position": "Midfielder",
@@ -476,6 +523,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 4124,
               "name": "Jota Peleteiro",
               "position": "Midfielder",
@@ -486,6 +534,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 6317,
               "name": "Ezri Konsa",
               "position": "Midfielder",
@@ -496,6 +545,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8885,
               "name": "Marvelous Nakamba",
               "position": "Midfielder",
@@ -506,6 +556,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 33525,
               "name": "Douglas Luiz",
               "position": "Midfielder",
@@ -516,6 +567,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 34646,
               "name": "John McGinn",
               "position": "Midfielder",
@@ -526,6 +578,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 111437,
               "name": "Jacob Ramsey",
               "position": "Midfielder",
@@ -536,6 +589,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 3913,
               "name": "Jonathan Kodjia",
               "position": "Attacker",
@@ -546,6 +600,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8411,
               "name": "Anwar El Ghazi",
               "position": "Attacker",
@@ -556,6 +611,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 8891,
               "name": "Wesley",
               "position": "Attacker",
@@ -566,6 +622,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 128242,
               "name": "Cameron Archer",
               "position": "Attacker",
@@ -576,6 +633,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 58,
               "id": 11339,
               "name": "Dean Smith",
               "position": null,
@@ -590,6 +648,7 @@ const Rosters = {
   Blackburn_Rovers: {
     "squad": [
           {
+              "team_id": 59,
               "id": 4834,
               "name": "Jayson Leutwiler",
               "position": "Goalkeeper",
@@ -600,6 +659,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4867,
               "name": "Christian Walton",
               "position": "Goalkeeper",
@@ -610,6 +670,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4835,
               "name": "Ryan Nyambe",
               "position": "Defender",
@@ -620,6 +681,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4836,
               "name": "Derrick Williams",
               "position": "Defender",
@@ -630,6 +692,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4838,
               "name": "Lewis Travis",
               "position": "Defender",
@@ -640,6 +703,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4842,
               "name": "Amari'i Bell",
               "position": "Defender",
@@ -650,6 +714,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 5023,
               "name": "Samuel Hart",
               "position": "Defender",
@@ -660,6 +725,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 7880,
               "name": "Tosin Adarabioyo",
               "position": "Defender",
@@ -670,6 +736,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 11353,
               "name": "Greg Cunningham",
               "position": "Defender",
@@ -680,6 +747,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4186,
               "name": "Bradley Johnson",
               "position": "Midfielder",
@@ -690,6 +758,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4216,
               "name": "Stewart Downing",
               "position": "Midfielder",
@@ -700,6 +769,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4492,
               "name": "Jacob Davenport",
               "position": "Midfielder",
@@ -710,6 +780,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4844,
               "name": "Corry Evans",
               "position": "Midfielder",
@@ -720,6 +791,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4845,
               "name": "Darragh Lenihan",
               "position": "Midfielder",
@@ -730,6 +802,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4846,
               "name": "Elliott Bennett",
               "position": "Midfielder",
@@ -740,6 +813,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4850,
               "name": "Bradley Dack",
               "position": "Midfielder",
@@ -750,6 +824,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4852,
               "name": "Joe Rankin-Costello",
               "position": "Midfielder",
@@ -760,6 +835,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 5508,
               "name": "Joe Rothwell",
               "position": "Midfielder",
@@ -770,6 +846,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 6526,
               "name": "Lewis Holtby",
               "position": "Midfielder",
@@ -780,6 +857,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 26475,
               "name": "Tom White",
               "position": "Midfielder",
@@ -790,6 +868,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 82138,
               "name": "Joe Grayson",
               "position": "Midfielder",
@@ -800,6 +879,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 114122,
               "name": "John Buckley",
               "position": "Midfielder",
@@ -810,6 +890,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4129,
               "name": "Sam Gallagher",
               "position": "Attacker",
@@ -820,6 +901,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4856,
               "name": "Danny Graham",
               "position": "Attacker",
@@ -830,6 +912,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4857,
               "name": "Dominic Samuel",
               "position": "Attacker",
@@ -840,6 +923,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4859,
               "name": "Harry Chapman",
               "position": "Attacker",
@@ -850,6 +934,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 4863,
               "name": "Adam Armstrong",
               "position": "Attacker",
@@ -860,6 +945,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 11300,
               "name": "Ben Brereton",
               "position": "Attacker",
@@ -870,6 +956,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 59,
               "id": 14572,
               "name": "Tony Mowbray",
               "position": null,
@@ -884,6 +971,7 @@ const Rosters = {
   Bolton_Wanderers: {
     "squad": [
           {
+              "team_id": 60,
               "id": 3919,
               "name": "Ben Alnwick",
               "position": "Goalkeeper",
@@ -894,6 +982,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 6413,
               "name": "Remi Matthews",
               "position": "Goalkeeper",
@@ -904,6 +993,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125661,
               "name": "Luke Hutchinson",
               "position": "Goalkeeper",
@@ -914,6 +1004,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125662,
               "name": "Matthew Alexander",
               "position": "Goalkeeper",
@@ -924,6 +1015,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 3952,
               "name": "Harry Brockbank",
               "position": "Defender",
@@ -934,6 +1026,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 4298,
               "name": "Jake Wright",
               "position": "Defender",
@@ -944,6 +1037,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 5166,
               "name": "Adam Chicksen",
               "position": "Defender",
@@ -954,6 +1048,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 6454,
               "name": "Josh Emmanuel",
               "position": "Defender",
@@ -964,6 +1059,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 11506,
               "name": "Joshua Earl",
               "position": "Defender",
@@ -974,6 +1070,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 11538,
               "name": "Jack Hobbs",
               "position": "Defender",
@@ -984,6 +1081,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 34605,
               "name": "Alistair Crawford",
               "position": "Defender",
@@ -994,6 +1092,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 99095,
               "name": "Liam Edwards",
               "position": "Defender",
@@ -1004,6 +1103,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124680,
               "name": "Lindsay Yoan Zouma",
               "position": "Defender",
@@ -1014,6 +1114,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124682,
               "name": "Jordan Boon",
               "position": "Defender",
@@ -1024,6 +1125,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124683,
               "name": "Joe White",
               "position": "Defender",
@@ -1034,6 +1136,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124686,
               "name": "Adam Senior",
               "position": "Defender",
@@ -1044,6 +1147,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125663,
               "name": "D'Neal Richards",
               "position": "Defender",
@@ -1054,6 +1158,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 128941,
               "name": "Myles Edmondson",
               "position": "Defender",
@@ -1064,6 +1169,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 128942,
               "name": "Nathan Whalley",
               "position": "Defender",
@@ -1074,6 +1180,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 3937,
               "name": "Will Buckley",
               "position": "Midfielder",
@@ -1084,6 +1191,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 4123,
               "name": "Jason Lowe",
               "position": "Midfielder",
@@ -1094,6 +1202,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 4487,
               "name": "Luke Murphy",
               "position": "Midfielder",
@@ -1104,6 +1213,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 11419,
               "name": "James Weir",
               "position": "Midfielder",
@@ -1114,6 +1224,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 11482,
               "name": "Liam Bridcutt",
               "position": "Midfielder",
@@ -1124,6 +1235,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 98561,
               "name": "Dennis Politic",
               "position": "Midfielder",
@@ -1134,6 +1246,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 118149,
               "name": "Ronan Darcy",
               "position": "Midfielder",
@@ -1144,6 +1257,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124681,
               "name": "Sonny Graham",
               "position": "Midfielder",
@@ -1154,6 +1268,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124685,
               "name": "Callum King-Harmes",
               "position": "Midfielder",
@@ -1164,6 +1279,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125652,
               "name": "Regan Riley",
               "position": "Midfielder",
@@ -1174,6 +1290,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125664,
               "name": "De'Marlio Brown-Sterling",
               "position": "Midfielder",
@@ -1184,6 +1301,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 125665,
               "name": "Finlay Hurford-Lockett",
               "position": "Midfielder",
@@ -1194,6 +1312,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 126908,
               "name": "Kwame Osigwe",
               "position": "Midfielder",
@@ -1204,6 +1323,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 128943,
               "name": "Jay Fitzmartin",
               "position": "Midfielder",
@@ -1214,6 +1334,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 3949,
               "name": "Connor Hall",
               "position": "Attacker",
@@ -1224,6 +1345,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 5561,
               "name": "Chris O'Grady",
               "position": "Attacker",
@@ -1234,6 +1356,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 6366,
               "name": "Joe Bunney",
               "position": "Attacker",
@@ -1244,6 +1367,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 6756,
               "name": "Thibaud Verlinden",
               "position": "Attacker",
@@ -1254,6 +1378,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 11292,
               "name": "Daryl Murphy",
               "position": "Attacker",
@@ -1264,6 +1389,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 14693,
               "name": "Joe Dodoo",
               "position": "Attacker",
@@ -1274,6 +1400,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 124684,
               "name": "Eddie Brown",
               "position": "Attacker",
@@ -1284,6 +1411,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 60,
               "id": 14586,
               "name": "Keith Hill",
               "position": null,
@@ -1294,6 +1422,7 @@ const Rosters = {
               "role": "COACH"
           },
           {
+              "team_id": 60,
               "id": 128575,
               "name": "Jimmy Phillips",
               "position": null,
@@ -1308,6 +1437,7 @@ const Rosters = {
   Chelsea : {
     "squad": [
           {
+              "team_id": 61,
               "id": 3189,
               "name": "Kepa Arrizabalaga",
               "position": "Goalkeeper",
@@ -1318,6 +1448,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3203,
               "name": "Willy Caballero",
               "position": "Goalkeeper",
@@ -1328,6 +1459,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 101077,
               "name": "Jamie Cumming",
               "position": "Goalkeeper",
@@ -1338,6 +1470,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3177,
               "name": "Antonio Rüdiger",
               "position": "Defender",
@@ -1348,6 +1481,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3191,
               "name": "Azpilicueta",
               "position": "Defender",
@@ -1358,6 +1492,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3195,
               "name": "Marcos Alonso",
               "position": "Defender",
@@ -1368,6 +1503,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3455,
               "name": "Andreas Christensen",
               "position": "Defender",
@@ -1378,6 +1514,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7809,
               "name": "Emerson",
               "position": "Defender",
@@ -1388,6 +1525,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7948,
               "name": "Kurt Zouma",
               "position": "Defender",
@@ -1398,6 +1536,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 11411,
               "name": "Michael Hector",
               "position": "Defender",
@@ -1408,6 +1547,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 11528,
               "name": "Fikayo Tomori",
               "position": "Defender",
@@ -1418,6 +1558,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 56628,
               "name": "Reece James",
               "position": "Defender",
@@ -1428,6 +1569,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 118489,
               "name": "Marc Guéhi",
               "position": "Defender",
@@ -1438,6 +1580,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 131119,
               "name": "Faustino Anjorin",
               "position": "Defender",
@@ -1448,6 +1591,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 131120,
               "name": "Ian Maatsen",
               "position": "Defender",
@@ -1458,6 +1602,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 65,
               "name": "Mateo Kovačić",
               "position": "Midfielder",
@@ -1468,6 +1613,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 145,
               "name": "Christian Pulisic",
               "position": "Midfielder",
@@ -1478,6 +1624,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 2094,
               "name": "Jorginho",
               "position": "Midfielder",
@@ -1488,6 +1635,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3230,
               "name": "Willian",
               "position": "Midfielder",
@@ -1498,6 +1646,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3367,
               "name": "N'Golo Kanté",
               "position": "Midfielder",
@@ -1508,6 +1657,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7450,
               "name": "Marco van Ginkel",
               "position": "Midfielder",
@@ -1518,6 +1668,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7599,
               "name": "Mason Mount",
               "position": "Midfielder",
@@ -1528,6 +1679,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7816,
               "name": "Callum Hudson-Odoi",
               "position": "Midfielder",
@@ -1538,6 +1690,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7817,
               "name": "Ross Barkley",
               "position": "Midfielder",
@@ -1548,6 +1701,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 8159,
               "name": "Ruben Loftus-Cheek",
               "position": "Midfielder",
@@ -1558,6 +1712,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 126289,
               "name": "Billy Gilmour",
               "position": "Midfielder",
@@ -1568,6 +1723,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 133787,
               "name": "Tariq Lamptey",
               "position": "Midfielder",
@@ -1578,6 +1734,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3371,
               "name": "Olivier Giroud",
               "position": "Attacker",
@@ -1588,6 +1745,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 3664,
               "name": "Michy Batshuayi",
               "position": "Attacker",
@@ -1598,6 +1756,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7818,
               "name": "Pedro",
               "position": "Attacker",
@@ -1608,6 +1767,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 7985,
               "name": "Tammy Abraham",
               "position": "Attacker",
@@ -1618,6 +1778,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 61,
               "id": 25598,
               "name": "Frank Lampard",
               "position": null,
@@ -1632,6 +1793,7 @@ const Rosters = {
   Everton : {
     "squad": [
           {
+              "team_id": 62,
               "id": 3309,
               "name": "Jordan Pickford",
               "position": "Goalkeeper",
@@ -1642,6 +1804,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3449,
               "name": "Jonas Lössl",
               "position": "Goalkeeper",
@@ -1652,6 +1815,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7822,
               "name": "Maarten Stekelenburg",
               "position": "Goalkeeper",
@@ -1662,6 +1826,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3359,
               "name": "Lucas Digne",
               "position": "Defender",
@@ -1672,6 +1837,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3362,
               "name": "Djibril Sidibé",
               "position": "Defender",
@@ -1682,6 +1848,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3728,
               "name": "Yerry Mina",
               "position": "Defender",
@@ -1692,6 +1859,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 6623,
               "name": "Jean-Philippe Gbamin",
               "position": "Defender",
@@ -1702,6 +1870,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7824,
               "name": "Leighton Baines",
               "position": "Defender",
@@ -1712,6 +1881,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7826,
               "name": "Mason Holgate",
               "position": "Defender",
@@ -1722,6 +1892,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7829,
               "name": "Michael Keane",
               "position": "Defender",
@@ -1732,6 +1903,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7830,
               "name": "Cuco Martina",
               "position": "Defender",
@@ -1742,6 +1914,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7836,
               "name": "Séamus Coleman",
               "position": "Defender",
@@ -1752,6 +1925,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3251,
               "name": "André Gomes",
               "position": "Midfielder",
@@ -1762,6 +1936,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3392,
               "name": "Alex Iwobi",
               "position": "Midfielder",
@@ -1772,6 +1947,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 3630,
               "name": "Baye Oumar Niasse",
               "position": "Midfielder",
@@ -1782,6 +1958,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7837,
               "name": "Tom Davies",
               "position": "Midfielder",
@@ -1792,6 +1969,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7839,
               "name": "Dominic Calvert-Lewin",
               "position": "Midfielder",
@@ -1802,6 +1980,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7840,
               "name": "Morgan Schneiderlin",
               "position": "Midfielder",
@@ -1812,6 +1991,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7842,
               "name": "Gylfi Þór Sigurðsson",
               "position": "Midfielder",
@@ -1822,6 +2002,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7844,
               "name": "Beni Baningime",
               "position": "Midfielder",
@@ -1832,6 +2013,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7848,
               "name": "Anthony Gordon",
               "position": "Midfielder",
@@ -1842,6 +2024,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7886,
               "name": "Fabian Delph",
               "position": "Midfielder",
@@ -1852,6 +2035,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 16476,
               "name": "Bernard",
               "position": "Midfielder",
@@ -1862,6 +2046,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 2171,
               "name": "Moise Kean",
               "position": "Attacker",
@@ -1872,6 +2057,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7854,
               "name": "Cenk Tosun",
               "position": "Attacker",
@@ -1882,6 +2068,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 7855,
               "name": "Theo Walcott",
               "position": "Attacker",
@@ -1892,6 +2079,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 8133,
               "name": "Richarlison",
               "position": "Attacker",
@@ -1902,6 +2090,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 62,
               "id": 11579,
               "name": "Marco Silva",
               "position": null,
@@ -1916,6 +2105,7 @@ const Rosters = {
   Fulham: {
     "squad": [
           {
+              "team_id": 63,
               "id": 3953,
               "name": "Marcus Bettinelli",
               "position": "Goalkeeper",
@@ -1926,6 +2116,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3955,
               "name": "Magnus Norman",
               "position": "Goalkeeper",
@@ -1936,6 +2127,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 6445,
               "name": "Marek Rodák",
               "position": "Goalkeeper",
@@ -1946,6 +2138,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3315,
               "name": "Alfie Mawson",
               "position": "Defender",
@@ -1956,6 +2149,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3956,
               "name": "Tim Ream",
               "position": "Defender",
@@ -1966,6 +2160,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3957,
               "name": "Denis Odoi",
               "position": "Defender",
@@ -1976,6 +2171,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3963,
               "name": "Cyrus Christie",
               "position": "Defender",
@@ -1986,6 +2182,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 8422,
               "name": "Maxime Le Marchand",
               "position": "Defender",
@@ -1996,6 +2193,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3964,
               "name": "Scott Parker",
               "position": "Midfielder",
@@ -2006,6 +2204,7 @@ const Rosters = {
               "role": "COACH"
           },
           {
+              "team_id": 63,
               "id": 3965,
               "name": "Tom Cairney",
               "position": "Midfielder",
@@ -2016,6 +2215,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3967,
               "name": "Kevin McDonald",
               "position": "Midfielder",
@@ -2026,6 +2226,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3968,
               "name": "Luca de la Torre",
               "position": "Midfielder",
@@ -2036,6 +2237,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3969,
               "name": "Neeskens Kebano",
               "position": "Midfielder",
@@ -2046,6 +2248,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3970,
               "name": "Stefan Johansen",
               "position": "Midfielder",
@@ -2056,6 +2259,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3971,
               "name": "Ibrahima Cissé",
               "position": "Midfielder",
@@ -2066,6 +2270,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3973,
               "name": "Steven Sessegnon",
               "position": "Midfielder",
@@ -2076,6 +2281,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3974,
               "name": "Matt O'Riley",
               "position": "Midfielder",
@@ -2086,6 +2292,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3995,
               "name": "Harrison Reed",
               "position": "Midfielder",
@@ -2096,6 +2303,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 4398,
               "name": "Bobby Reid",
               "position": "Midfielder",
@@ -2106,6 +2314,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 4399,
               "name": "Joe Bryan",
               "position": "Midfielder",
@@ -2116,6 +2325,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 8244,
               "name": "Harry Arter",
               "position": "Midfielder",
@@ -2126,6 +2336,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 128241,
               "name": "Tyrese Francois",
               "position": "Midfielder",
@@ -2136,6 +2347,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3445,
               "name": "Aleksandar Mitrović",
               "position": "Attacker",
@@ -2146,6 +2358,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3915,
               "name": "Josh Onomah",
               "position": "Attacker",
@@ -2156,6 +2369,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 3978,
               "name": "Aboubakar Kamara",
               "position": "Attacker",
@@ -2166,6 +2380,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 4095,
               "name": "Ivan Cavaleiro",
               "position": "Attacker",
@@ -2176,6 +2391,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 8284,
               "name": "Anthony Knockaert",
               "position": "Attacker",
@@ -2186,6 +2402,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 128234,
               "name": "Ben Davis",
               "position": "Attacker",
@@ -2196,6 +2413,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 63,
               "id": 128236,
               "name": "Martell Taylor-Crossdale",
               "position": "Attacker",
@@ -2210,6 +2428,7 @@ const Rosters = {
   Liverpool: {
     "squad": [
           {
+              "team_id": 64,
               "id": 1795,
               "name": "Alisson",
               "position": "Goalkeeper",
@@ -2220,6 +2439,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 4133,
               "name": "Andrew Lonergan",
               "position": "Goalkeeper",
@@ -2230,6 +2450,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 8197,
               "name": "Adrián",
               "position": "Goalkeeper",
@@ -2240,6 +2461,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 102046,
               "name": "Caoimhin Kelleher",
               "position": "Goalkeeper",
@@ -2250,6 +2472,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7720,
               "name": "Sepp van den Berg",
               "position": "Defender",
@@ -2260,6 +2483,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7859,
               "name": "Dejan Lovren",
               "position": "Defender",
@@ -2270,6 +2494,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7861,
               "name": "James Milner",
               "position": "Defender",
@@ -2280,6 +2505,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7862,
               "name": "Joe Gomez",
               "position": "Defender",
@@ -2290,6 +2516,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7863,
               "name": "Nathaniel Clyne",
               "position": "Defender",
@@ -2300,6 +2527,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7865,
               "name": "Joël Matip",
               "position": "Defender",
@@ -2310,6 +2538,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7867,
               "name": "Trent Alexander-Arnold",
               "position": "Defender",
@@ -2320,6 +2549,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7868,
               "name": "Andrew Robertson",
               "position": "Defender",
@@ -2330,6 +2560,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7869,
               "name": "Virgil van Dijk",
               "position": "Defender",
@@ -2340,6 +2571,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 102044,
               "name": "Ki-Jana Hoever",
               "position": "Defender",
@@ -2350,6 +2582,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 133765,
               "name": "Neco Williams",
               "position": "Defender",
@@ -2360,6 +2593,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 133767,
               "name": "Billy Koumetio",
               "position": "Defender",
@@ -2370,6 +2604,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3233,
               "name": "Roberto Firmino",
               "position": "Midfielder",
@@ -2380,6 +2615,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3318,
               "name": "Adam Lallana",
               "position": "Midfielder",
@@ -2390,6 +2626,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3320,
               "name": "Jordan Henderson",
               "position": "Midfielder",
@@ -2400,6 +2637,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3323,
               "name": "Alex Oxlade-Chamberlain",
               "position": "Midfielder",
@@ -2410,6 +2648,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3626,
               "name": "Sadio Mané",
               "position": "Midfielder",
@@ -2420,6 +2659,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7397,
               "name": "Pedro Chirivella",
               "position": "Midfielder",
@@ -2430,6 +2670,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7871,
               "name": "Georginio Wijnaldum",
               "position": "Midfielder",
@@ -2440,6 +2681,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7873,
               "name": "Curtis Jones",
               "position": "Midfielder",
@@ -2450,6 +2692,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7955,
               "name": "Xherdan Shaqiri",
               "position": "Midfielder",
@@ -2460,6 +2703,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 8749,
               "name": "Fabinho",
               "position": "Midfielder",
@@ -2470,6 +2714,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 9547,
               "name": "Naby Keïta",
               "position": "Midfielder",
@@ -2480,6 +2725,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 76753,
               "name": "Herbie Kane",
               "position": "Midfielder",
@@ -2490,6 +2736,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 131116,
               "name": "Adam Lewis",
               "position": "Midfielder",
@@ -2500,6 +2747,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 131117,
               "name": "Luis Longstaff",
               "position": "Midfielder",
@@ -2510,6 +2758,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 131118,
               "name": "Leighton Clarkson",
               "position": "Midfielder",
@@ -2520,6 +2769,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3663,
               "name": "Divock Origi",
               "position": "Attacker",
@@ -2530,6 +2780,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 3754,
               "name": "Mohamed Salah",
               "position": "Attacker",
@@ -2540,6 +2791,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 7877,
               "name": "Rhian Brewster",
               "position": "Attacker",
@@ -2550,6 +2802,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 92053,
               "name": "Harvey Elliot",
               "position": "Attacker",
@@ -2560,6 +2813,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 133766,
               "name": "Yasser Larouci",
               "position": "Attacker",
@@ -2570,6 +2824,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 64,
               "id": 9344,
               "name": "Jürgen Klopp",
               "position": null,
@@ -2584,6 +2839,7 @@ const Rosters = {
   Manchester_City: {
     "squad": [
           {
+              "team_id": 65,
               "id": 3222,
               "name": "Ederson",
               "position": "Goalkeeper",
@@ -2594,6 +2850,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 4172,
               "name": "Scott Carson",
               "position": "Goalkeeper",
@@ -2604,6 +2861,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7879,
               "name": "Claudio Bravo",
               "position": "Goalkeeper",
@@ -2614,6 +2872,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 102441,
               "name": "Daniel Grimshaw",
               "position": "Goalkeeper",
@@ -2624,6 +2883,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 2000,
               "name": "João Cancelo",
               "position": "Defender",
@@ -2634,6 +2894,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3205,
               "name": "Nicolás Otamendi",
               "position": "Defender",
@@ -2644,6 +2905,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3311,
               "name": "Kyle Walker",
               "position": "Defender",
@@ -2654,6 +2916,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3313,
               "name": "John Stones",
               "position": "Defender",
@@ -2664,6 +2927,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7646,
               "name": "Angeliño",
               "position": "Defender",
@@ -2674,6 +2938,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7882,
               "name": "Benjamin Mendy",
               "position": "Defender",
@@ -2684,6 +2949,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7884,
               "name": "Aymeric Laporte",
               "position": "Defender",
@@ -2694,6 +2960,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 101345,
               "name": "Eric García",
               "position": "Defender",
@@ -2704,6 +2971,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 131035,
               "name": "Taylor Harwood-Bellis",
               "position": "Defender",
@@ -2714,6 +2982,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3182,
               "name": "Ilkay Gündogan",
               "position": "Midfielder",
@@ -2724,6 +2993,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3184,
               "name": "Leroy Sané",
               "position": "Midfielder",
@@ -2734,6 +3004,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3196,
               "name": "David Silva",
               "position": "Midfielder",
@@ -2744,6 +3015,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3199,
               "name": "Rodri",
               "position": "Midfielder",
@@ -2754,6 +3026,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3227,
               "name": "Fernandinho",
               "position": "Midfielder",
@@ -2764,6 +3037,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3254,
               "name": "Bernardo Silva",
               "position": "Midfielder",
@@ -2774,6 +3048,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3654,
               "name": "Kevin De Bruyne",
               "position": "Midfielder",
@@ -2784,6 +3059,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7888,
               "name": "Phil Foden",
               "position": "Midfielder",
@@ -2794,6 +3070,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7889,
               "name": "Oleksandr Zinchenko",
               "position": "Midfielder",
@@ -2804,6 +3081,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 8069,
               "name": "Riyad Mahrez",
               "position": "Midfielder",
@@ -2814,6 +3092,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 92051,
               "name": "Adrián Bernabé",
               "position": "Midfielder",
@@ -2824,6 +3103,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 131036,
               "name": "Alpha Richard Dionkou",
               "position": "Midfielder",
@@ -2834,6 +3114,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 133734,
               "name": "Thomas Doyle",
               "position": "Midfielder",
@@ -2844,6 +3125,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3236,
               "name": "Gabriel Jesus",
               "position": "Attacker",
@@ -2854,6 +3136,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 3329,
               "name": "Raheem Sterling",
               "position": "Attacker",
@@ -2864,6 +3147,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 7891,
               "name": "Sergio Agüero",
               "position": "Attacker",
@@ -2874,6 +3158,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 102438,
               "name": "Ian Carlo Poveda",
               "position": "Attacker",
@@ -2884,6 +3169,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 65,
               "id": 11603,
               "name": "Pep Guardiola",
               "position": null,
@@ -2894,6 +3180,7 @@ const Rosters = {
               "role": "COACH"
           },
           {
+              "team_id": 65,
               "id": 11619,
               "name": "Arteta",
               "position": null,
@@ -2904,6 +3191,7 @@ const Rosters = {
               "role": "ASSISTANT_COACH"
           },
           {
+              "team_id": 65,
               "id": 133312,
               "name": "Brian Kidd",
               "position": null,
@@ -2918,6 +3206,7 @@ const Rosters = {
   Manchester_United: {
     "squad": [
           {
+              "team_id": 66,
               "id": 3188,
               "name": "David De Gea",
               "position": "Goalkeeper",
@@ -2928,6 +3217,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3202,
               "name": "Sergio Romero",
               "position": "Goalkeeper",
@@ -2938,6 +3228,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7942,
               "name": "Lee Grant",
               "position": "Goalkeeper",
@@ -2948,6 +3239,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3206,
               "name": "Marcos Rojo",
               "position": "Defender",
@@ -2958,6 +3250,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3492,
               "name": "Victor Nilsson-Lindelöf",
               "position": "Defender",
@@ -2968,6 +3261,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3894,
               "name": "Axel Tuanzebe",
               "position": "Defender",
@@ -2978,6 +3272,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7897,
               "name": "Phil Jones",
               "position": "Defender",
@@ -2988,6 +3283,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7898,
               "name": "Luke Shaw",
               "position": "Defender",
@@ -2998,6 +3294,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7901,
               "name": "Eric Bailly",
               "position": "Defender",
@@ -3008,6 +3305,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 8148,
               "name": "Timothy Fosu-Mensah",
               "position": "Defender",
@@ -3018,6 +3316,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 15905,
               "name": "Diogo Dalot",
               "position": "Defender",
@@ -3028,6 +3327,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 131126,
               "name": "Brandon Williams",
               "position": "Defender",
@@ -3038,6 +3338,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3232,
               "name": "Fred",
               "position": "Midfielder",
@@ -3048,6 +3349,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3317,
               "name": "Ashley Young",
               "position": "Midfielder",
@@ -3058,6 +3360,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3325,
               "name": "Jesse Lingard",
               "position": "Midfielder",
@@ -3068,6 +3371,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3326,
               "name": "Harry Maguire",
               "position": "Midfielder",
@@ -3078,6 +3382,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3366,
               "name": "Paul Pogba",
               "position": "Midfielder",
@@ -3088,6 +3393,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3438,
               "name": "Nemanja Matić",
               "position": "Midfielder",
@@ -3098,6 +3404,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7905,
               "name": "Scott McTominay",
               "position": "Midfielder",
@@ -3108,6 +3415,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7974,
               "name": "Daniel James",
               "position": "Midfielder",
@@ -3118,6 +3426,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 8158,
               "name": "Aaron Wan-Bissaka",
               "position": "Midfielder",
@@ -3128,6 +3437,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 101075,
               "name": "Mason Greenwood",
               "position": "Midfielder",
@@ -3138,6 +3448,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 101076,
               "name": "James Garner",
               "position": "Midfielder",
@@ -3148,6 +3459,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3331,
               "name": "Marcus Rashford",
               "position": "Attacker",
@@ -3158,6 +3470,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 3372,
               "name": "Anthony Martial",
               "position": "Attacker",
@@ -3168,6 +3481,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7909,
               "name": "Mata",
               "position": "Attacker",
@@ -3178,6 +3492,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 7910,
               "name": "Angel Gomes",
               "position": "Attacker",
@@ -3188,6 +3503,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 33153,
               "name": "Andreas Pereira",
               "position": "Attacker",
@@ -3198,6 +3514,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 98483,
               "name": "Tahith Chong",
               "position": "Attacker",
@@ -3208,6 +3525,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 66,
               "id": 38106,
               "name": "Ole Gunnar Solskjær",
               "position": null,
@@ -3222,6 +3540,7 @@ const Rosters = {
   Newcastle: {
     "squad": [
           {
+              "team_id": 67,
               "id": 7912,
               "name": "Rob Elliot",
               "position": "Goalkeeper",
@@ -3232,6 +3551,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7913,
               "name": "Karl Darlow",
               "position": "Goalkeeper",
@@ -3242,6 +3562,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7914,
               "name": "Martin Dúbravka",
               "position": "Goalkeeper",
@@ -3252,6 +3573,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 88,
               "name": "Fabian Schär",
               "position": "Defender",
@@ -3262,6 +3584,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 1868,
               "name": "Emil Krafth",
               "position": "Defender",
@@ -3272,6 +3595,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 6708,
               "name": "Jetro Willems",
               "position": "Defender",
@@ -3282,6 +3606,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7917,
               "name": "Paul Dummett",
               "position": "Defender",
@@ -3292,6 +3617,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7919,
               "name": "Jamal Lascelles",
               "position": "Defender",
@@ -3302,6 +3628,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7922,
               "name": "Isaac Hayden",
               "position": "Defender",
@@ -3312,6 +3639,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7923,
               "name": "Ciaran Clark",
               "position": "Defender",
@@ -3322,6 +3650,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7924,
               "name": "DeAndre Yedlin",
               "position": "Defender",
@@ -3332,6 +3661,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7925,
               "name": "Florian Lejeune",
               "position": "Defender",
@@ -3342,6 +3672,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7928,
               "name": "Javier Manquillo",
               "position": "Defender",
@@ -3352,6 +3683,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7968,
               "name": "Federico Fernández",
               "position": "Defender",
@@ -3362,6 +3694,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 3342,
               "name": "Ki Sungyueng",
               "position": "Midfielder",
@@ -3372,6 +3705,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 4955,
               "name": "Sean Longstaff",
               "position": "Midfielder",
@@ -3382,6 +3716,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 6627,
               "name": "Yoshinori Mutō",
               "position": "Midfielder",
@@ -3392,6 +3727,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7929,
               "name": "Jonjo Shelvey",
               "position": "Midfielder",
@@ -3402,6 +3738,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7930,
               "name": "Matt Ritchie",
               "position": "Midfielder",
@@ -3412,6 +3749,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7932,
               "name": "Christian Atsu",
               "position": "Midfielder",
@@ -3422,6 +3760,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 10653,
               "name": "Joelinton",
               "position": "Midfielder",
@@ -3432,6 +3771,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 11775,
               "name": "Jack Colback",
               "position": "Midfielder",
@@ -3442,6 +3782,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 76861,
               "name": "Miguel Almirón",
               "position": "Midfielder",
@@ -3452,6 +3793,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 128310,
               "name": "Matthew Longstaff",
               "position": "Midfielder",
@@ -3462,6 +3804,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 3634,
               "name": "Henri Saivet",
               "position": "Attacker",
@@ -3472,6 +3815,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 7937,
               "name": "Dwight Gayle",
               "position": "Attacker",
@@ -3482,6 +3826,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 8219,
               "name": "Andy Carroll",
               "position": "Attacker",
@@ -3492,6 +3837,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 8446,
               "name": "Allan Saint-Maximin",
               "position": "Attacker",
@@ -3502,6 +3848,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 67,
               "id": 11421,
               "name": "Steve Bruce",
               "position": null,
@@ -3516,6 +3863,7 @@ const Rosters = {
   Norwhich: {
     "squad": [
           {
+              "team_id": 68,
               "id": 3980,
               "name": "Michael McGovern",
               "position": "Goalkeeper",
@@ -3526,6 +3874,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 6489,
               "name": "Ralf Fährmann",
               "position": "Goalkeeper",
@@ -3536,6 +3885,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 8258,
               "name": "Tim Krul",
               "position": "Goalkeeper",
@@ -3546,6 +3896,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 131964,
               "name": "Archie Mair",
               "position": "Goalkeeper",
@@ -3556,6 +3907,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3982,
               "name": "Timm Klose",
               "position": "Defender",
@@ -3566,6 +3918,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3985,
               "name": "Christoph Zimmermann",
               "position": "Defender",
@@ -3576,6 +3929,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3986,
               "name": "Grant Hanley",
               "position": "Defender",
@@ -3586,6 +3940,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3998,
               "name": "Jamal Lewis",
               "position": "Defender",
@@ -3596,6 +3951,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 5487,
               "name": "Ben Godfrey",
               "position": "Defender",
@@ -3606,6 +3962,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 5605,
               "name": "Akin Famewo",
               "position": "Defender",
@@ -3616,6 +3973,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 8203,
               "name": "Sam Byram",
               "position": "Defender",
@@ -3626,6 +3984,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 8394,
               "name": "Ibrahim Amadou",
               "position": "Defender",
@@ -3636,6 +3995,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 9960,
               "name": "Philip Heise",
               "position": "Defender",
@@ -3646,6 +4006,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 31941,
               "name": "Emiliano Buendía",
               "position": "Defender",
@@ -3656,6 +4017,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3989,
               "name": "Alexander Tettey",
               "position": "Midfielder",
@@ -3666,6 +4028,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3993,
               "name": "Mario Vrančić",
               "position": "Midfielder",
@@ -3676,6 +4039,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3996,
               "name": "Tom Trybull",
               "position": "Midfielder",
@@ -3686,6 +4050,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3997,
               "name": "Marco Stiepermann",
               "position": "Midfielder",
@@ -3696,6 +4061,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 4000,
               "name": "Onel Hernández",
               "position": "Midfielder",
@@ -3706,6 +4072,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 4001,
               "name": "Dennis Srbeny",
               "position": "Midfielder",
@@ -3716,6 +4083,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 4002,
               "name": "Moritz Leitner",
               "position": "Midfielder",
@@ -3726,6 +4094,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 11601,
               "name": "Todd Cantwell",
               "position": "Midfielder",
@@ -3736,6 +4105,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 34494,
               "name": "Kenny McLean",
               "position": "Midfielder",
@@ -3746,6 +4116,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 80765,
               "name": "Max Aarons",
               "position": "Midfielder",
@@ -3756,6 +4127,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 3480,
               "name": "Josip Drmić",
               "position": "Attacker",
@@ -3766,6 +4138,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 16076,
               "name": "Patrick Roberts",
               "position": "Attacker",
@@ -3776,6 +4149,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 24121,
               "name": "Teemu Pukki",
               "position": "Attacker",
@@ -3786,6 +4160,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 125561,
               "name": "Adam Idah",
               "position": "Attacker",
@@ -3796,6 +4171,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 68,
               "id": 11323,
               "name": "Daniel Farke",
               "position": null,
@@ -3810,6 +4186,7 @@ const Rosters = {
   Queens_Park_Rangers: {
     "squad": [
           {
+              "team_id": 69,
               "id": 4010,
               "name": "Joe Lumley",
               "position": "Goalkeeper",
@@ -3820,6 +4197,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 5565,
               "name": "Dillon Barnes",
               "position": "Goalkeeper",
@@ -3830,6 +4208,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 34960,
               "name": "Liam Kelly",
               "position": "Goalkeeper",
@@ -3840,6 +4219,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4014,
               "name": "Grant Hall",
               "position": "Defender",
@@ -3850,6 +4230,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4423,
               "name": "Yoann Barbet",
               "position": "Defender",
@@ -3860,6 +4241,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 5504,
               "name": "Todd Kane",
               "position": "Defender",
@@ -3870,6 +4252,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 6188,
               "name": "Luke Amos",
               "position": "Defender",
@@ -3880,6 +4263,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 6820,
               "name": "Toni Leistner",
               "position": "Defender",
@@ -3890,6 +4274,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 7864,
               "name": "Conor Masterson",
               "position": "Defender",
@@ -3900,6 +4285,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 7943,
               "name": "Geoff Cameron",
               "position": "Defender",
@@ -3910,6 +4296,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 7967,
               "name": "Àngel Rangel",
               "position": "Defender",
@@ -3920,6 +4307,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 34906,
               "name": "Lee Wallace",
               "position": "Defender",
@@ -3930,6 +4318,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4024,
               "name": "Ryan Manning",
               "position": "Midfielder",
@@ -3940,6 +4329,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4025,
               "name": "Josh Scowen",
               "position": "Midfielder",
@@ -3950,6 +4340,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4026,
               "name": "Charlie Owens",
               "position": "Midfielder",
@@ -3960,6 +4351,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4029,
               "name": "Ilias Chair",
               "position": "Midfielder",
@@ -3970,6 +4362,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4031,
               "name": "Bright Osayi-Samuel",
               "position": "Midfielder",
@@ -3980,6 +4373,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 4032,
               "name": "Eberechi Eze",
               "position": "Midfielder",
@@ -3990,6 +4384,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 8245,
               "name": "Marc Pugh",
               "position": "Midfielder",
@@ -4000,6 +4395,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 34500,
               "name": "Dominic Ball",
               "position": "Midfielder",
@@ -4010,6 +4406,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 81027,
               "name": "Matthew Smith",
               "position": "Midfielder",
@@ -4020,6 +4417,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 5594,
               "name": "Olamide Shodipo",
               "position": "Attacker",
@@ -4030,6 +4428,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 8058,
               "name": "Nahki Wells",
               "position": "Attacker",
@@ -4040,6 +4439,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 8225,
               "name": "Jordan Hugill",
               "position": "Attacker",
@@ -4050,6 +4450,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 57775,
               "name": "Jan Mlakar",
               "position": "Attacker",
@@ -4060,6 +4461,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 69,
               "id": 11307,
               "name": "Mark Warburton",
               "position": null,
@@ -4074,6 +4476,7 @@ const Rosters = {
   Stoke : {
     "squad": [
           {
+              "team_id": 70,
               "id": 3308,
               "name": "Jack Butland",
               "position": "Goalkeeper",
@@ -4084,6 +4487,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4327,
               "name": "Adam Davies",
               "position": "Goalkeeper",
@@ -4094,6 +4498,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8230,
               "name": "Adam Federici",
               "position": "Goalkeeper",
@@ -4104,6 +4509,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4080,
               "name": "Danny Batth",
               "position": "Defender",
@@ -4114,6 +4520,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4233,
               "name": "Cameron Carter-Vickers",
               "position": "Defender",
@@ -4124,6 +4531,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4333,
               "name": "Liam Lindsay",
               "position": "Defender",
@@ -4134,6 +4542,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7945,
               "name": "Ryan Shawcross",
               "position": "Defender",
@@ -4144,6 +4553,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7947,
               "name": "Thomas Edwards",
               "position": "Defender",
@@ -4154,6 +4564,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7949,
               "name": "Bruno Martins Indi",
               "position": "Defender",
@@ -4164,6 +4575,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8039,
               "name": "Stephen Ward",
               "position": "Defender",
@@ -4174,6 +4586,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8172,
               "name": "Tommy Smith",
               "position": "Defender",
@@ -4184,6 +4597,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 115642,
               "name": "Nathan Collins",
               "position": "Defender",
@@ -4194,6 +4608,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 131034,
               "name": "Cameron McJannett",
               "position": "Defender",
@@ -4204,6 +4619,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 3139,
               "name": "Oghenekaro Etebo",
               "position": "Midfielder",
@@ -4214,6 +4630,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 3629,
               "name": "Badou Ndiaye",
               "position": "Midfielder",
@@ -4224,6 +4641,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 3902,
               "name": "Scott Hogan",
               "position": "Midfielder",
@@ -4234,6 +4652,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4019,
               "name": "Jordan Cousins",
               "position": "Midfielder",
@@ -4244,6 +4663,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4308,
               "name": "Mark Duffy",
               "position": "Midfielder",
@@ -4254,6 +4674,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4432,
               "name": "Ryan Woods",
               "position": "Midfielder",
@@ -4264,6 +4685,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4883,
               "name": "Nick Powell",
               "position": "Midfielder",
@@ -4274,6 +4696,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7956,
               "name": "Joe Allen",
               "position": "Midfielder",
@@ -4284,6 +4707,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7960,
               "name": "Lasse Sørensen",
               "position": "Midfielder",
@@ -4294,6 +4718,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7979,
               "name": "Sam Clucas",
               "position": "Midfielder",
@@ -4304,6 +4729,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8021,
               "name": "James McClean",
               "position": "Midfielder",
@@ -4314,6 +4740,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 3632,
               "name": "Mame Birame Diouf",
               "position": "Attacker",
@@ -4324,6 +4751,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 4384,
               "name": "Lee Gregory",
               "position": "Attacker",
@@ -4334,6 +4762,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 7965,
               "name": "Tyrese Campbell",
               "position": "Attacker",
@@ -4344,6 +4773,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8055,
               "name": "Sam Vokes",
               "position": "Attacker",
@@ -4354,6 +4784,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 8192,
               "name": "Tom Ince",
               "position": "Attacker",
@@ -4364,6 +4795,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 70,
               "id": 57183,
               "name": "Michael O'Neill",
               "position": null,
@@ -4378,6 +4810,7 @@ const Rosters = {
   Sunderland: {
     "squad": [
           {
+              "team_id": 71,
               "id": 5763,
               "name": "Lee Burge",
               "position": "Goalkeeper",
@@ -4388,6 +4821,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 34683,
               "name": "Jon McLaughlin",
               "position": "Goalkeeper",
@@ -4398,6 +4832,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 97249,
               "name": "Anthony Patterson",
               "position": "Goalkeeper",
@@ -4408,6 +4843,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4016,
               "name": "Joel Lynch",
               "position": "Defender",
@@ -4418,6 +4854,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4054,
               "name": "Denver Hume",
               "position": "Defender",
@@ -4428,6 +4865,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4143,
               "name": "Laurens De Bock",
               "position": "Defender",
@@ -4438,6 +4876,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4372,
               "name": "Conor McLaughlin",
               "position": "Defender",
@@ -4448,6 +4887,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4476,
               "name": "Tom Flanagan",
               "position": "Defender",
@@ -4458,6 +4898,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 5060,
               "name": "George Dobson",
               "position": "Defender",
@@ -4468,6 +4909,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 5765,
               "name": "Jordan Willis",
               "position": "Defender",
@@ -4478,6 +4920,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 30013,
               "name": "Alim Öztürk",
               "position": "Defender",
@@ -4488,6 +4931,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 80967,
               "name": "Brandon Taylor",
               "position": "Defender",
@@ -4498,6 +4942,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 99304,
               "name": "Jack Bainbridge",
               "position": "Defender",
@@ -4508,6 +4953,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4053,
               "name": "Bali Mumba",
               "position": "Midfielder",
@@ -4518,6 +4964,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4059,
               "name": "Lynden Gooch",
               "position": "Midfielder",
@@ -4528,6 +4975,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4061,
               "name": "Elliot Embleton",
               "position": "Midfielder",
@@ -4538,6 +4986,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4064,
               "name": "Aiden McGeady",
               "position": "Midfielder",
@@ -4548,6 +4997,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4214,
               "name": "Grant Leadbitter",
               "position": "Midfielder",
@@ -4558,6 +5008,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4882,
               "name": "Max Power",
               "position": "Midfielder",
@@ -4568,6 +5019,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 6259,
               "name": "Luke O'Nien",
               "position": "Midfielder",
@@ -4578,6 +5030,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 34642,
               "name": "Dylan McGeouch",
               "position": "Midfielder",
@@ -4588,6 +5041,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 72525,
               "name": "Ruben Sammut",
               "position": "Midfielder",
@@ -4598,6 +5052,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 82672,
               "name": "Benjamin Mbunga-Kimpioka",
               "position": "Midfielder",
@@ -4608,6 +5063,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 97250,
               "name": "Lee Connelly",
               "position": "Midfielder",
@@ -4618,6 +5074,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 99307,
               "name": "Daniel Neil",
               "position": "Midfielder",
@@ -4628,6 +5085,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4070,
               "name": "Duncan Watmore",
               "position": "Attacker",
@@ -4638,6 +5096,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 4897,
               "name": "Will Grigg",
               "position": "Attacker",
@@ -4648,6 +5107,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 5193,
               "name": "Charlie Wyke",
               "position": "Attacker",
@@ -4658,6 +5118,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 5233,
               "name": "Chris Maguire",
               "position": "Attacker",
@@ -4668,6 +5129,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 5791,
               "name": "Marc McNulty",
               "position": "Attacker",
@@ -4678,6 +5140,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 132236,
               "name": "Cole Kiernan",
               "position": "Attacker",
@@ -4688,6 +5151,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 71,
               "id": 11428,
               "name": "Phil Parkinson",
               "position": null,
@@ -4698,6 +5162,7 @@ const Rosters = {
               "role": "COACH"
           },
           {
+              "team_id": 71,
               "id": 132237,
               "name": "James Fowler",
               "position": null,
@@ -4712,6 +5177,7 @@ const Rosters = {
   Sqansea: {
     "squad": [
           {
+              "team_id": 72,
               "id": 3484,
               "name": "Kristoffer Nordfeldt",
               "position": "Goalkeeper",
@@ -4722,6 +5188,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7966,
               "name": "Erwin Mulder",
               "position": "Goalkeeper",
@@ -4732,6 +5199,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 11629,
               "name": "Freddie Woodman",
               "position": "Goalkeeper",
@@ -4742,6 +5210,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 4015,
               "name": "Jake Bidwell",
               "position": "Defender",
@@ -4752,6 +5221,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 5714,
               "name": "Joe Rodon",
               "position": "Defender",
@@ -4762,6 +5232,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 6185,
               "name": "Ben Wilmot",
               "position": "Defender",
@@ -4772,6 +5243,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7969,
               "name": "Kyle Naughton",
               "position": "Defender",
@@ -4782,6 +5254,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7970,
               "name": "Mike van der Hoorn",
               "position": "Defender",
@@ -4792,6 +5265,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 34970,
               "name": "Declan John",
               "position": "Defender",
@@ -4802,6 +5276,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 59089,
               "name": "Benjamin Cabango",
               "position": "Defender",
@@ -4812,6 +5287,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 82150,
               "name": "Brandon Cooper",
               "position": "Defender",
@@ -4822,6 +5298,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 125975,
               "name": "Tivonge Rushesha",
               "position": "Defender",
@@ -4832,6 +5309,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 128944,
               "name": "Kees De Boer",
               "position": "Defender",
@@ -4842,6 +5320,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 4243,
               "name": "Bersant Celina",
               "position": "Midfielder",
@@ -4852,6 +5331,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 4896,
               "name": "Jay Fulton",
               "position": "Midfielder",
@@ -4862,6 +5342,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 6358,
               "name": "Matt Grimes",
               "position": "Midfielder",
@@ -4872,6 +5353,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7361,
               "name": "Kristoffer Peterson",
               "position": "Midfielder",
@@ -4882,6 +5364,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7973,
               "name": "Wayne Routledge",
               "position": "Midfielder",
@@ -4892,6 +5375,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7976,
               "name": "George Byers",
               "position": "Midfielder",
@@ -4902,6 +5386,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7977,
               "name": "Nathan Dyer",
               "position": "Midfielder",
@@ -4912,6 +5397,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7978,
               "name": "Tom Carroll",
               "position": "Midfielder",
@@ -4922,6 +5408,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7980,
               "name": "Connor Roberts",
               "position": "Midfielder",
@@ -4932,6 +5419,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 82151,
               "name": "Liam Cullen",
               "position": "Midfielder",
@@ -4942,6 +5430,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 128311,
               "name": "Jack Evans",
               "position": "Midfielder",
@@ -4952,6 +5441,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 521,
               "name": "Aldo Kalulu",
               "position": "Attacker",
@@ -4962,6 +5452,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 5914,
               "name": "Sam Surridge",
               "position": "Attacker",
@@ -4972,6 +5463,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 7990,
               "name": "André Ayew",
               "position": "Attacker",
@@ -4982,6 +5474,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 11295,
               "name": "Barrie McKay",
               "position": "Attacker",
@@ -4992,6 +5485,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 32840,
               "name": "Borja Bastón",
               "position": "Attacker",
@@ -5002,6 +5496,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 76785,
               "name": "Yan Dhanda",
               "position": "Attacker",
@@ -5012,6 +5507,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 125974,
               "name": "Jordan Garrick",
               "position": "Attacker",
@@ -5022,6 +5518,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 72,
               "id": 120149,
               "name": "Steve Cooper",
               "position": null,
@@ -5036,6 +5533,7 @@ const Rosters = {
   Tottenham: {
     "squad": [
           {
+              "team_id": 73,
               "id": 3355,
               "name": "Hugo Lloris",
               "position": "Goalkeeper",
@@ -5046,6 +5544,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7991,
               "name": "Michel Vorm",
               "position": "Goalkeeper",
@@ -5056,6 +5555,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7992,
               "name": "Alfie Whiteman",
               "position": "Goalkeeper",
@@ -5066,6 +5566,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7993,
               "name": "Paulo Gazzaniga",
               "position": "Goalkeeper",
@@ -5076,6 +5577,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 133229,
               "name": "Brandon Austin",
               "position": "Goalkeeper",
@@ -5086,6 +5588,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3314,
               "name": "Eric Dier",
               "position": "Defender",
@@ -5096,6 +5599,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3646,
               "name": "Jan Vertonghen",
               "position": "Defender",
@@ -5106,6 +5610,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3648,
               "name": "Toby Alderweireld",
               "position": "Defender",
@@ -5116,6 +5621,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3733,
               "name": "Davinson Sánchez",
               "position": "Defender",
@@ -5126,6 +5632,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3959,
               "name": "Ryan Sessegnon",
               "position": "Defender",
@@ -5136,6 +5643,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7994,
               "name": "Ben Davies",
               "position": "Defender",
@@ -5146,6 +5654,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7995,
               "name": "Kyle Walker-Peters",
               "position": "Defender",
@@ -5156,6 +5665,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7996,
               "name": "Juan Foyth",
               "position": "Defender",
@@ -5166,6 +5676,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7997,
               "name": "Serge Aurier",
               "position": "Defender",
@@ -5176,6 +5687,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 131037,
               "name": "Japhet Tanganga",
               "position": "Defender",
@@ -5186,6 +5698,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3216,
               "name": "Giovani Lo Celso",
               "position": "Midfielder",
@@ -5196,6 +5709,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3319,
               "name": "Danny Rose",
               "position": "Midfielder",
@@ -5206,6 +5720,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3324,
               "name": "Dele Alli",
               "position": "Midfielder",
@@ -5216,6 +5731,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3343,
               "name": "Son Heungmin",
               "position": "Midfielder",
@@ -5226,6 +5742,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 3459,
               "name": "Christian Eriksen",
               "position": "Midfielder",
@@ -5236,6 +5753,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 7999,
               "name": "Harry Winks",
               "position": "Midfielder",
@@ -5246,6 +5764,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8000,
               "name": "Victor Wanyama",
               "position": "Midfielder",
@@ -5256,6 +5775,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8001,
               "name": "Moussa Sissoko",
               "position": "Midfielder",
@@ -5266,6 +5786,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8003,
               "name": "Lucas Moura",
               "position": "Midfielder",
@@ -5276,6 +5797,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8469,
               "name": "Tanguy Ndombèlé",
               "position": "Midfielder",
@@ -5286,6 +5808,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 96974,
               "name": "Oliver Skipp",
               "position": "Midfielder",
@@ -5296,6 +5819,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8004,
               "name": "Harry Kane",
               "position": "Attacker",
@@ -5306,6 +5830,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 8005,
               "name": "Erik Lamela",
               "position": "Attacker",
@@ -5316,6 +5841,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 131041,
               "name": "Troy Parrott",
               "position": "Attacker",
@@ -5326,6 +5852,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 73,
               "id": 11609,
               "name": "Mauricio Pochettino",
               "position": null,
@@ -5340,6 +5867,7 @@ const Rosters = {
   West_Bromwich_Albion: {
     "squad": [
           {
+              "team_id": 74,
               "id": 3884,
               "name": "Sam Johnstone",
               "position": "Goalkeeper",
@@ -5350,6 +5878,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 5386,
               "name": "Jonathan Bond",
               "position": "Goalkeeper",
@@ -5360,6 +5889,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 128374,
               "name": "Ali Al Habsi",
               "position": "Goalkeeper",
@@ -5370,6 +5900,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 3747,
               "name": "Ahmed Hegazy",
               "position": "Defender",
@@ -5380,6 +5911,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 4017,
               "name": "Darnell Furlong",
               "position": "Defender",
@@ -5390,6 +5922,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 5061,
               "name": "Jack Fitzwater",
               "position": "Defender",
@@ -5400,6 +5933,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 5430,
               "name": "Conor Townsend",
               "position": "Defender",
@@ -5410,6 +5944,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 6451,
               "name": "Semi Ajayi",
               "position": "Defender",
@@ -5420,6 +5955,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 7971,
               "name": "Kyle Bartley",
               "position": "Defender",
@@ -5430,6 +5966,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8016,
               "name": "Kieran Gibbs",
               "position": "Defender",
@@ -5440,6 +5977,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 25650,
               "name": "Dara O'Shea",
               "position": "Defender",
@@ -5450,6 +5988,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 3321,
               "name": "Jake Livermore",
               "position": "Midfielder",
@@ -5460,6 +5999,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 4433,
               "name": "Romaine Sawyers",
               "position": "Midfielder",
@@ -5470,6 +6010,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 6042,
               "name": "Kyle Edwards",
               "position": "Midfielder",
@@ -5480,6 +6021,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8019,
               "name": "Chris Brunt",
               "position": "Midfielder",
@@ -5490,6 +6032,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8023,
               "name": "Matt Phillips",
               "position": "Midfielder",
@@ -5500,6 +6043,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8025,
               "name": "Hal Robson-Kanu",
               "position": "Midfielder",
@@ -5510,6 +6054,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8029,
               "name": "Nathan Ferguson",
               "position": "Midfielder",
@@ -5520,6 +6065,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8030,
               "name": "Rekeem Harper",
               "position": "Midfielder",
@@ -5530,6 +6076,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8214,
               "name": "Grady Diangana",
               "position": "Midfielder",
@@ -5540,6 +6087,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 16749,
               "name": "Chris Willock",
               "position": "Midfielder",
@@ -5550,6 +6098,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 16751,
               "name": "Filip Krovinović",
               "position": "Midfielder",
@@ -5560,6 +6109,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 4467,
               "name": "Kenneth Zohorè",
               "position": "Attacker",
@@ -5570,6 +6120,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 8099,
               "name": "Charlie Austin",
               "position": "Attacker",
@@ -5580,6 +6131,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 45490,
               "name": "Matheus Pereira",
               "position": "Attacker",
@@ -5590,6 +6142,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 74,
               "id": 11614,
               "name": "Slaven Bilić",
               "position": null,
@@ -5604,6 +6157,7 @@ const Rosters = {
   Wigan: {
     "squad": [
           {
+              "team_id": 75,
               "id": 4865,
               "name": "Jamie Jones",
               "position": "Goalkeeper",
@@ -5614,6 +6168,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 11527,
               "name": "David Marshall",
               "position": "Goalkeeper",
@@ -5624,6 +6179,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 125980,
               "name": "Daniel Gyollai",
               "position": "Goalkeeper",
@@ -5634,6 +6190,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 3927,
               "name": "Antonee Robinson",
               "position": "Defender",
@@ -5644,6 +6201,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4142,
               "name": "Tom Pearce",
               "position": "Defender",
@@ -5654,6 +6212,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4837,
               "name": "Charlie Mulgrew",
               "position": "Defender",
@@ -5664,6 +6223,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4871,
               "name": "Chey Dunkley",
               "position": "Defender",
@@ -5674,6 +6234,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4872,
               "name": "Nathan Byrne",
               "position": "Defender",
@@ -5684,6 +6245,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 7808,
               "name": "Dujon Sterling",
               "position": "Defender",
@@ -5694,6 +6256,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 11537,
               "name": "Danny Fox",
               "position": "Defender",
@@ -5704,6 +6267,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 34871,
               "name": "Cédric Kipré",
               "position": "Defender",
@@ -5714,6 +6278,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 3765,
               "name": "Sam Morsy",
               "position": "Midfielder",
@@ -5724,6 +6289,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4319,
               "name": "Lee Evans",
               "position": "Midfielder",
@@ -5734,6 +6300,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4347,
               "name": "Joe Williams",
               "position": "Midfielder",
@@ -5744,6 +6311,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4350,
               "name": "Kieffer Moore",
               "position": "Midfielder",
@@ -5754,6 +6322,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4430,
               "name": "Lewis MacLeod",
               "position": "Midfielder",
@@ -5764,6 +6333,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4457,
               "name": "Anthony Pilkington",
               "position": "Midfielder",
@@ -5774,6 +6344,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4880,
               "name": "Michael Jacobs",
               "position": "Midfielder",
@@ -5784,6 +6355,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4886,
               "name": "Gavin Massey",
               "position": "Midfielder",
@@ -5794,6 +6366,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4888,
               "name": "Christopher Merrie",
               "position": "Midfielder",
@@ -5804,6 +6377,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4890,
               "name": "Gary Roberts",
               "position": "Midfielder",
@@ -5814,6 +6388,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4893,
               "name": "Jensen Weir",
               "position": "Midfielder",
@@ -5824,6 +6399,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4919,
               "name": "Kal Naismith",
               "position": "Midfielder",
@@ -5834,6 +6410,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4921,
               "name": "Jamal Lowe",
               "position": "Midfielder",
@@ -5844,6 +6421,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 34908,
               "name": "Josh Windass",
               "position": "Midfielder",
@@ -5854,6 +6432,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4094,
               "name": "Bright Enobakhare",
               "position": "Attacker",
@@ -5864,6 +6443,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 4250,
               "name": "Joe Garner",
               "position": "Attacker",
@@ -5874,6 +6454,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 80761,
               "name": "Joe Gelhardt",
               "position": "Attacker",
@@ -5884,6 +6465,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 118150,
               "name": "Charlie Jolley",
               "position": "Attacker",
@@ -5894,6 +6476,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 75,
               "id": 14573,
               "name": "Paul Cook",
               "position": null,
@@ -5908,6 +6491,7 @@ const Rosters = {
   Wolverhampton_Wanderers: {
     "squad": [
           {
+              "team_id": 76,
               "id": 3239,
               "name": "Rui Patrício",
               "position": "Goalkeeper",
@@ -5918,6 +6502,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4078,
               "name": "John Ruddy",
               "position": "Goalkeeper",
@@ -5928,6 +6513,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 122595,
               "name": "Andreas Søndergaard",
               "position": "Goalkeeper",
@@ -5938,6 +6524,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 46,
               "name": "Jesús Vallejo",
               "position": "Defender",
@@ -5948,6 +6535,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 3710,
               "name": "Romain Saïss",
               "position": "Defender",
@@ -5958,6 +6546,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4081,
               "name": "Matt Doherty",
               "position": "Defender",
@@ -5968,6 +6557,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4083,
               "name": "Conor Coady",
               "position": "Defender",
@@ -5978,6 +6568,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4084,
               "name": "Ryan Bennett",
               "position": "Defender",
@@ -5988,6 +6579,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4086,
               "name": "Willy Boly",
               "position": "Defender",
@@ -5998,6 +6590,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4087,
               "name": "Phil Ofosu-Ayeh",
               "position": "Defender",
@@ -6008,6 +6601,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4089,
               "name": "Ruben Vinagre",
               "position": "Defender",
@@ -6018,6 +6612,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4090,
               "name": "Oskar Buur",
               "position": "Defender",
@@ -6028,6 +6623,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 25376,
               "name": "Max Kilman",
               "position": "Defender",
@@ -6038,6 +6634,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 33622,
               "name": "Jonny Castro",
               "position": "Defender",
@@ -6048,6 +6645,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 122990,
               "name": "Dion Sanderson",
               "position": "Defender",
@@ -6058,6 +6656,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 133772,
               "name": "Lewis Richards",
               "position": "Defender",
@@ -6068,6 +6667,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 369,
               "name": "Meritan Shabani",
               "position": "Midfielder",
@@ -6078,6 +6678,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 2073,
               "name": "Bruno Jordão",
               "position": "Midfielder",
@@ -6088,6 +6689,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 2074,
               "name": "Pedro Neto",
               "position": "Midfielder",
@@ -6098,6 +6700,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 3249,
               "name": "João Moutinho",
               "position": "Midfielder",
@@ -6108,6 +6711,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 3255,
               "name": "Rúben Neves",
               "position": "Midfielder",
@@ -6118,6 +6722,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 3659,
               "name": "Leander Dendoncker",
               "position": "Midfielder",
@@ -6128,6 +6733,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4091,
               "name": "Morgan Gibbs-White",
               "position": "Midfielder",
@@ -6138,6 +6744,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4092,
               "name": "Diogo Jota",
               "position": "Midfielder",
@@ -6148,6 +6755,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 120969,
               "name": "Ming-yang Yang",
               "position": "Midfielder",
@@ -6158,6 +6766,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 122596,
               "name": "Terry Taylor",
               "position": "Midfielder",
@@ -6168,6 +6777,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 122597,
               "name": "Nathaniel Wan",
               "position": "Midfielder",
@@ -6178,6 +6788,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 131114,
               "name": "Taylor Perry",
               "position": "Midfielder",
@@ -6188,6 +6799,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 133770,
               "name": "Chem Campbell",
               "position": "Midfielder",
@@ -6198,6 +6810,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 133773,
               "name": "Flávio Cristóvão",
               "position": "Midfielder",
@@ -6208,6 +6821,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 1757,
               "name": "Patrick Cutrone",
               "position": "Attacker",
@@ -6218,6 +6832,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 3305,
               "name": "Raúl Jiménez",
               "position": "Attacker",
@@ -6228,6 +6843,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 4221,
               "name": "Adama Traoré",
               "position": "Attacker",
@@ -6238,6 +6854,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 82147,
               "name": "Bernard Ashley-Seal",
               "position": "Attacker",
@@ -6248,6 +6865,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 133771,
               "name": "Austin Samuels",
               "position": "Attacker",
@@ -6258,6 +6876,7 @@ const Rosters = {
               "role": "PLAYER"
           },
           {
+              "team_id": 76,
               "id": 11315,
               "name": "Nuno Espírito Santo",
               "position": null,
