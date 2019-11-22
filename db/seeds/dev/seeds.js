@@ -12,7 +12,7 @@ const createTeam = (knex, team) => {
       .then(id => {
         let playersPromise = [];
         playersData
-          .filter(player => player.id === id[0])
+          .filter(player => player.teams_id === team.id)
           .forEach(player => {
             playersPromise.push(
               createPlayer(knex, {
@@ -20,7 +20,8 @@ const createTeam = (knex, team) => {
                 position: player.position,
                 nationality: player.nationality,
                 role: player.role,
-                shirtNumber: player.shirtNumber
+                shirtNumber: player.shirtNumber,
+                team_id: id,
               })
             )
           })

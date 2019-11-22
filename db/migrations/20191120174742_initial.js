@@ -18,8 +18,9 @@ exports.up = function(knex) {
       table.string('nationality');
       table.string('role');
       table.integer('shirtNumber').unsigned();
+      table.integer('team_id').unsigned();
       table.foreign('team_id')
-        .references('id')
+        .references('team.id')
 
       table.timestamp(true, true);
     })
@@ -28,7 +29,7 @@ exports.up = function(knex) {
 
 exports.down = function(knex) {
   return Promise.all([
-    knex.schema.dropTable('teams'),
     knex.schema.dropTable('players'),
+    knex.schema.dropTable('teams'),
   ])
 };
