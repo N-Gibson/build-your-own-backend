@@ -68,13 +68,13 @@ app.post('/api/v1/teams', (request, response) => {
     if(!team[requiredParam]) {
       return response
         .status(422)
-        .send({ error: `Expected format: { name: <String>, area: <String>, venue: <String>, crestUrl: <String>, founded: <String>, clubColors: <String> }. You\'re missing a \"${requiredParam}\" property.` })
+        .send({ error: `Expected format: { name: <String>, area: <String>, venue: <String>, crestUrl: <Integer>, founded: <String>, clubColors: <String> }. You\'re missing a \"${requiredParam}\" property.` })
     }
   }
 
   database('teams').insert(team, 'id')
     .then(team => {
-      response.status(201).json({ id: team[0] })
+      response.status(201).json({ id: team[0] });
     })
     .catch((error) => {
       response.status(500).json({ error });
@@ -90,6 +90,14 @@ app.post('/api/v1/players', (request, response) => {
         .status(422)
         .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <String>, role: <String>, team_id: <String>. You\'re missing a 
       \"${requiredParam}\" property.}` })
-    };
-  };
+    }
+  }
+
+  database('players').insert(player, 'id')
+    .then(player => {
+      response.status(201).json({ id: player[0] });
+    })
+    .catch(error => {
+      response.status(500).json({ error });
+    });
 });
