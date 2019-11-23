@@ -36,7 +36,6 @@ This API consitst of 9 endpoints. There is a root get request, indicating that t
         "clubColors": "Claret / Sky Blue",
         "true": null
     }] ``` |
-----------------------------------------------
 | GET | /api/v1/players | none | ``` [
     {
         "id": 1,
