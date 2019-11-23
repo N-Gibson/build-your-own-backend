@@ -15,7 +15,7 @@ note: since this server is hosted locally on your machine. All API URL's will be
 This API consitst of 9 endpoints. There is a root get request, indicating that the back end is up and running correctly. From there, are 4 GET endpoints, 2 POST endpoints and 2 DELETE endpoints. 
 
 | Method | URL | Options | Sample Result |
-------------------------------------------
+| ------ | --- | ------- | --------------|
 | GET | /api/v1/teams | none | ``` [{
         "id": 1,
         "name": "Arsenal FC",
