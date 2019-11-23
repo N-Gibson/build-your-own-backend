@@ -2,7 +2,7 @@
 
 ## Documentation - English Premiere League(EPL) Backend
 
-  - Setup
+### Setup
   - Clone this repository
   - cd into repo
   - run npm install
