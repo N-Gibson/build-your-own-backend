@@ -37,3 +37,14 @@ app.get('/api/v1/players', (request, response) => {
     });
 });
 
+app.post('/api/v1/teams', (request, response) => {
+  const team = request.body;
+
+  for(let requiredParam of ['name', 'position', 'nationality', 'shirtNumber', 'role']) {
+    if(!team[requiredParam]) {
+      return response
+        .status(422)
+        .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <String>, role: <String> }. You\'re missing a \"${requiredParam}\" property.` })
+    }
+  }
+})
