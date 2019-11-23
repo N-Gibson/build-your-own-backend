@@ -64,13 +64,21 @@ app.get('/api/v1/players/:id', (request, response) => {
 app.post('/api/v1/teams', (request, response) => {
   const team = request.body;
 
-  for(let requiredParam of ['name', 'position', 'nationality', 'shirtNumber', 'role']) {
+  for(let requiredParam of ['name', 'area', 'venue', 'crestUrl', 'founded', 'clubColors']) {
     if(!team[requiredParam]) {
       return response
         .status(422)
-        .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <String>, role: <String> }. You\'re missing a \"${requiredParam}\" property.` })
-    };
-  };
+        .send({ error: `Expected format: { name: <String>, area: <String>, venue: <String>, crestUrl: <String>, founded: <String>, clubColors: <String> }. You\'re missing a \"${requiredParam}\" property.` })
+    }
+  }
+
+  database('teams').insert(team, 'id')
+    .then(team => {
+      response.status(201).json({ id: team[0] })
+    })
+    .catch((error) => {
+      response.status(500).json({ error });
+    });
 });
 
 app.post('/api/v1/players', (request, response) => {
