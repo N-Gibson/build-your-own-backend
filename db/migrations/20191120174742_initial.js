@@ -4,9 +4,11 @@ exports.up = function(knex) {
     knex.schema.createTable('teams', (table) => {
       table.increments('id').primary();
       table.string('name');
+      table.string('area');
       table.string('venue');
       table.string('crestUrl');
       table.string('founded');
+      table.string('clubColors');
 
       table.timestamp(true, true);
     }),
@@ -20,7 +22,7 @@ exports.up = function(knex) {
       table.integer('shirtNumber').unsigned();
       table.integer('team_id').unsigned();
       table.foreign('team_id')
-        .references('team.id')
+        .references('teams.id')
 
       table.timestamp(true, true);
     })
