@@ -1,12 +1,21 @@
 const express = require('express');
 const app = express();
+
 const environment = process.env.NODE_ENV || 'development';
 const configuration = require('./knexfile')[environment];
 const database = require('knex')(configuration);
+
 app.set('port', process.env.PORT || 3000);
+app.use(express.json());
+
+app.locals.title = 'EPL Data Server';
 
 app.listen(app.get('port'), () => {
     console.log(`App is running on ${app.get('port')}`)
+});
+
+app.get('/', (request, response) => {
+  response.send(`Welcome to ${app.locals.title}`)
 });
 
 app.get('/api/v1/teams', (request, response) => {
@@ -88,7 +97,7 @@ app.post('/api/v1/players', (request, response) => {
     if(!player[requiredParam]) {
       return response 
         .status(422)
-        .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <String>, role: <String>, team_id: <String>. You\'re missing a 
+        .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <Integer>, role: <String>, team_id: <Integer>. You\'re missing a 
       \"${requiredParam}\" property.}` })
     }
   }
