@@ -45,6 +45,12 @@ app.post('/api/v1/teams', (request, response) => {
       return response
         .status(422)
         .send({ error: `Expected format: { name: <String>, position: <String>, nationality: <String>, shirtNumber: <String>, role: <String> }. You\'re missing a \"${requiredParam}\" property.` })
-    }
-  }
+    };
+  };
+});
+
+app.post('/api/v1/players', (request, response) => {
+  const player = request.body;
+
+  
 })
