@@ -1,6 +1,9 @@
 # build-your-own-backend
 
 ## Documentation - English Premiere League(EPL) Backend
+
+This API consists of all the teams and players associated with those teams in Englands top flight. Enjoy the soccer data!
+
  My project board can be viewed here at GitHub [Projects](https://github.com/N-Gibson/build-your-own-backend/projects/1)
  
 ### Technology
