@@ -1,6 +1,11 @@
 # build-your-own-backend
 
 ## Documentation - English Premiere League(EPL) Backend
+### Technology
+  - Node.js
+  - Express.js
+  - Knex
+  - Postgress
 
 ### Setup
   - Clone this repository
@@ -11,7 +16,7 @@
 note: since this server is hosted locally on your machine. All API URL's will be prefaced with http://localhost:3000
 
 ### Heroku 
-  - This API is also deployed on Heroku. All endpoints can be accessed there as well rather than cloning the application locally.
+  - This API is also deployed here on [Heroku](https://build-be.herokuapp.com/). All endpoints can be accessed there as well rather than cloning the application locally.
 
 ### Endpoints
 
