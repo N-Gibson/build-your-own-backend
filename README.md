@@ -2,22 +2,15 @@
 
 ## Documentation - English Premiere League(EPL) Backend
  My project board can be viewed here at GitHub [Projects](https://github.com/N-Gibson/build-your-own-backend/projects/1)
+ 
 ### Technology
   - Node.js
   - Express.js
   - Knex
   - Postgress
 
-### Setup
-  - Clone this repository
-  - cd into repo
-  - run npm install
-  - run nodemon server.js
-  
-note: since this server is hosted locally on your machine. All API URL's will be prefaced with http://localhost:3000
-
 ### Heroku 
-  - This API is also deployed here on [Heroku](https://build-be.herokuapp.com/). All endpoints can be accessed there as well rather than cloning the application locally.
+  - This API is deployed here on [Heroku](https://build-be.herokuapp.com/). All endpoints can be accessed there rather than cloning the application locally.
 
 ### Endpoints
 
