@@ -1,7 +1,7 @@
 # build-your-own-backend
 
 ## Documentation - English Premiere League(EPL) Backend
- My project board can be viewed here [Projects](https://github.com/N-Gibson/build-your-own-backend/projects/1)
+ My project board can be viewed here at GitHub [Projects](https://github.com/N-Gibson/build-your-own-backend/projects/1)
 ### Technology
   - Node.js
   - Express.js
